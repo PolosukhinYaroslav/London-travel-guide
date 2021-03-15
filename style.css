@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,600&family=Nanum+Gothic&family=Redressed&family=Syne+Mono&display=swap');
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 100px;
+
+    background-color: black;
+
+    margin-top: 0.5%;
+    padding-left: 3%;
+    padding-right: 3%;
+
+    color: white;
+}
+
+.main_image{
+    width: 95px;
+}
+
+body{
+    margin: 0%;
+
+    background-color: aquamarine;
+}
+
+.title{
+    font-family: 'Redressed', cursive, oblique;
+    font-size: 60px;
+
+    margin-left: 1%;
+}
+
+.subtitle{
+    font-family: 'Syne Mono', monospace;
+}
+
+P{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+b{
+    font-family: 'Lora', serif;
+}
+
+.title_div{
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+}
